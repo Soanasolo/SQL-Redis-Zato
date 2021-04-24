@@ -14,4 +14,6 @@ SqlToRedisServiceFinal.py invokes the service RequestSqlServiceFinal.py synchron
  - 'output_dict_name': Redis key, 
  - 'output_dict_key': this is the name of the column that its value will used as the key in the dictionnary output. 
 
+LcnSqlToRedisServiceFinal.py is a service that shows how to invoke the service SqlToRedisServiceFinal.  
+
 
